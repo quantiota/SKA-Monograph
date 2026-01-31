@@ -28,7 +28,7 @@
 
 ### Appendix A — Entropy as a Local Field and Implicit Neuron Density Encoding
 
-**Source:** *the_ska_entropy.pdf* 
+**Source:** `notes/the_ska_entropy.pdf` 
 
 **Role in the monograph:**
 This appendix formalizes entropy as a local scalar field defined over neural media, showing that neuron density is implicitly encoded through tensor dimensionality rather than explicit density terms. It establishes that the same entropy definition governs discrete layered networks and continuous neural fields in arbitrary spatial dimensions, providing the technical foundation for entropy-driven geometry in Part III.
@@ -44,7 +44,7 @@ This appendix formalizes entropy as a local scalar field defined over neural med
 
 ### Appendix B — Forward-Only Learning as a Consequence of Variational Causality
 
-**Source:** *the_forward-only_learning.pdf* 
+**Source:** `notes/the_forward-only_learning.pdf` 
 
 **Role in the monograph:**
 This appendix proves that forward-only learning is not a design choice but a mathematical necessity for any learning system derived from a variational principle. By analyzing the causal structure of Euler–Lagrange dynamics, it shows that backpropagation is fundamentally incompatible with least-action formulations, positioning SKA as the unique class of physically admissible learning dynamics.
@@ -60,7 +60,7 @@ This appendix proves that forward-only learning is not a design choice but a mat
 
 ### Appendix C — Shannon Entropy as a Path Integral of SKA Entropy
 
-**Source:** *ska2shannon.pdf* 
+**Source:** `note/ska2shannon.pdf` 
 
 **Role in the monograph:**
 This appendix provides a compact derivation showing that Shannon’s binary entropy emerges as the path integral of the SKA entropy differential when constrained to the sigmoid trajectory. It establishes a precise mathematical bridge between trajectory-based SKA entropy and classical information theory, without postulating Shannon entropy as a primitive.
@@ -79,7 +79,7 @@ This appendix provides a compact derivation showing that Shannon’s binary entr
 
 ### Appendix D — Why Simplex Noise is Required for High-Dimensional Neural Fields
 
-**Source:** *simplex-noise-rationale.pdf* 
+**Source:** `notes/simplex-noise-rationale.pdf` 
 
 **Role in the monograph:**
 This appendix justifies the use of Simplex noise as the only practical density substrate for Riemannian SKA Neural Fields in 4D and higher dimensions. It demonstrates why alternative noise models fail due to artifacts, lack of gradient coherence, or exponential complexity, and shows that Simplex noise preserves smooth, biologically plausible density gradients required for metric construction.
@@ -95,7 +95,7 @@ This appendix justifies the use of Simplex noise as the only practical density s
 
 ### Appendix E — Neuron Density Fields and Geometric Visualization in Higher Dimensions
 
-**Source:** *neuron_density.pdf* 
+**Source:** `notes/neuron_density.pdf` 
 
 **Role in the monograph:**
 This appendix provides visual and statistical validation of neuron density fields in 3D, 4D, and 5D spaces. It demonstrates that entropy expressions remain dimension-independent while spatial coherence and gradient structure are preserved, supporting the practical feasibility of Riemannian SKA Neural Fields.
