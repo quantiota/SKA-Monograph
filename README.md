@@ -26,7 +26,7 @@
 
 ## Recommended Appendix Structure for the Monograph
 
-### **Appendix A — Entropy as a Local Field and Implicit Neuron Density Encoding**
+### Appendix A — Entropy as a Local Field and Implicit Neuron Density Encoding
 
 **Source:** *the_ska_entropy.pdf* 
 
@@ -41,7 +41,7 @@ This appendix formalizes entropy as a local scalar field defined over neural med
 
 ---
 
-### **Appendix B — Forward-Only Learning as a Consequence of Variational Causality**
+### Appendix B — Forward-Only Learning as a Consequence of Variational Causality
 
 **Source:** *the_forward-only_learning.pdf* 
 
@@ -56,7 +56,7 @@ This appendix proves that forward-only learning is not a design choice but a mat
 
 ---
 
-### **Appendix C — Shannon Entropy as a Path Integral of SKA Entropy**
+### Appendix C — Shannon Entropy as a Path Integral of SKA Entropy
 
 **Source:** *ska2shannon.pdf* 
 
@@ -71,7 +71,7 @@ This appendix provides a compact derivation showing that Shannon’s binary entr
 
 ---
 
-### **Appendix D — Why Simplex Noise is Required for High-Dimensional Neural Fields**
+### Appendix D — Why Simplex Noise is Required for High-Dimensional Neural Fields
 
 **Source:** *simplex-noise-rationale.pdf* 
 
@@ -86,7 +86,7 @@ This appendix justifies the use of Simplex noise as the only practical density s
 
 ---
 
-### **Appendix E — Neuron Density Fields and Geometric Visualization in Higher Dimensions**
+### Appendix E — Neuron Density Fields and Geometric Visualization in Higher Dimensions
 
 **Source:** *neuron_density.pdf* 
 
