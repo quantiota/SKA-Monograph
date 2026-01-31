@@ -39,7 +39,8 @@ This appendix formalizes entropy as a local scalar field defined over neural med
 * Density effects emerge naturally
 * Dimensional scalability is principled, not heuristic
 
----
+
+
 
 ### Appendix B — Forward-Only Learning as a Consequence of Variational Causality
 
@@ -54,7 +55,8 @@ This appendix proves that forward-only learning is not a design choice but a mat
 * Backpropagation is non-variational and anti-causal
 * SKA aligns with physical law, not optimization heuristics
 
----
+
+
 
 ### Appendix C — Shannon Entropy as a Path Integral of SKA Entropy
 
@@ -69,7 +71,11 @@ This appendix provides a compact derivation showing that Shannon’s binary entr
 * Shannon entropy emerges, rather than being assumed
 * The sigmoid has a principled entropic origin
 
----
+
+
+
+
+
 
 ### Appendix D — Why Simplex Noise is Required for High-Dimensional Neural Fields
 
@@ -84,7 +90,8 @@ This appendix justifies the use of Simplex noise as the only practical density s
 * High-dimensional scalability is non-negotiable
 * Geometry does not collapse in 4D/5D
 
----
+
+
 
 ### Appendix E — Neuron Density Fields and Geometric Visualization in Higher Dimensions
 
@@ -99,7 +106,8 @@ This appendix provides visual and statistical validation of neuron density field
 * Geometry and entropy scale with dimension
 * The metric construction is empirically stable
 
----
+
+
 
 
 
